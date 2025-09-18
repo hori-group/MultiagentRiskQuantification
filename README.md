@@ -6,11 +6,15 @@ This repository provides a code for the paper "Orthogonal Modal Representation i
 # Prerequisites
 - Python 3.11.3
 - MATLAB 2024b
+- Some parts of the code use the `slanCM.m`, which provides 200 colormaps distributed on MATLAB.  
+You can download it from the following site:  
+<https://jp.mathworks.com/matlabcentral/fileexchange/120088-200-colormap>
 
 # Description of Each Code
 
 `Calc_SafeProb_usingFKPDE.ipynb`  
-- Solves each sub-Kolmogorov PDE corresponding to a decomposed safety probability of multi-agent systems by using the `py-pde` package. 
+- Solves each sub-Kolmogorov PDE corresponding to a decomposed safety probability of multi-agent systems by using the `py-pde` package. The `py-pde` package can be installed from the following site:  
+<https://py-pde.readthedocs.io/en/latest/index.html>
 - The solution data for each PDE is stored in the folder `PDEdata` in `.mat` format. 
 
 `Visualize_GraphFourierBasis.m`  
