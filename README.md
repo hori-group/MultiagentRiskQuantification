@@ -1,7 +1,7 @@
 # About this repository
 This repository provides a code for the paper "Orthogonal Modal Representation in Long-Term Risk Quantification for Dynamic Multi-Agent Systems" presented by Ryoma Yasunaga, Yorie Nakahira, and Yutaka Hori at American Control Conference 2025.
 
-- R. Yasunaga, Y. Nakahira and Y. Hori, "Orthogonal Modal Representation in Long-Term Risk Quantification for Dynamic Multi-Agent Systems," in IEEE Control Systems Letters, vol. 8, pp. 3177-3182, 2024, DOI: [10.1109/LCSYS.2024.3522949](URL)
+- R. Yasunaga, Y. Nakahira and Y. Hori, "Orthogonal Modal Representation in Long-Term Risk Quantification for Dynamic Multi-Agent Systems," in IEEE Control Systems Letters, vol. 8, pp. 3177-3182, 2024, DOI: [10.1109/LCSYS.2024.3522949](https://doi.org/10.1109/LCSYS.2024.3522949)
 
 # Prerequisites
 - Python 3.11.3
